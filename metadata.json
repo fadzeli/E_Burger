@@ -1,0 +1,5 @@
+{
+  "name": "e-Burger",
+  "description": "A premium mobile-first burger ordering application featuring a customer menu, cart system, and a comprehensive admin dashboard for product and order management, powered by Gemini AI for content generation.",
+  "requestFramePermissions": []
+}
